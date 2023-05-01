@@ -1,0 +1,14 @@
+.statistic__title {
+  font-weight: 700;
+  font-size: 20px;
+}
+.title__container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  padding-left: 15px;
+}
+.title {
+  text-align: center;
+}
